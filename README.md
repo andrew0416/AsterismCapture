@@ -5,7 +5,6 @@
 
 # 구성 요소 설명
 - 게임판은 이렇게 생겼습니다.
-<br>
 ![sample2](https://github.com/andrew0416/AsterismCapture/assets/5708754/485eec08-c513-45bd-a5ce-08449c7c37a4)
 <br>
 - 이하의 아이콘이 존재할 수 있습니다.
