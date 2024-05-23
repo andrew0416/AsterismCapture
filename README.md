@@ -30,7 +30,7 @@
 
 ### sample 2
 - 원본<br>
-![sample2](https://github.com/andrew0416/AsterismCapture/assets/5708754/563b0b8f-730f-4ffe-bedc-bd80e5efd9bd
+![sample2](https://github.com/andrew0416/AsterismCapture/assets/5708754/563b0b8f-730f-4ffe-bedc-bd80e5efd9bd)
 - 결과<br>
 ![result_labeled](https://github.com/andrew0416/AsterismCapture/assets/5708754/384760c9-92da-43cf-a10d-ffa20bedf4ed)
 
